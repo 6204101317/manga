@@ -5,7 +5,7 @@
       <v-toolbar-title v-text="title" />
       <v-spacer />
     </v-app-bar>
-    <!-- <img src="/layouts/manga.png" /> -->
+    <img src="@/layouts/manga.png" />
     <v-main>
       <v-container>
         <nuxt />
